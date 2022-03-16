@@ -1,6 +1,6 @@
 ### Creating Images with HTML (using NodeJS)
 
-A experiment that uses html to create images.
+A experiment that uses HTML to create images.
 
 ###### How it works?
 
@@ -13,4 +13,4 @@ Used [**TailwindUI modal**](https://tailwindui.com/components/application-ui/ove
 ![Tailwind Modal](https://cdn.discordapp.com/attachments/953691665611251712/953691702412058674/unknown.png)
 ![Experiment Output](https://cdn.discordapp.com/attachments/953691665611251712/953691986618097704/1647445917928.png)
 
-> Notice that transparency inside the modal doesn't work because of `page.screenshot` because it literally takes a screenshots and cuts element to fit in image.
+> Notice that transparency inside the modal doesn't work because of `pageContent.screenshot` because it literally takes a screenshots and cuts element to fit in image.
